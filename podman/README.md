@@ -21,7 +21,7 @@ Paketquelle mit der Version von Linux Mint (19.3) und dem Ubuntu Prefix nichts a
 (`... :/stable/xUbuntu_19.3/ ...`).
 
 Aus diesem Grund müssen die Kommandos leicht abgewandelt werden. Wir tauschen `${VERSION_ID}` gegen `18.04` für die
-korrekte Ubuntu Version auf der Linux Min 19.3 basiert. Außerdem müssen wir noch die zusätzlich _Dependency_
+korrekte Ubuntu Version auf der Linux Mint 19.3 basiert. Außerdem müssen wir noch die zusätzlich _Dependency_
 `slirp4netns` installieren, die für das _Networking_ benötigt wird. Nach den Anpassungen sehen die abgewandelten Kommandos wie
 folgt aus:
 
